@@ -1,0 +1,178 @@
+body{
+    font-family: 'YourFontFamily', sans-serif;
+    margin: 0px;
+    background-color: rgb(34, 34, 34);
+}
+.bg{
+    font-family: sans-serif;
+}
+.head img {
+height: 150px;
+width: 150px;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section{
+    color: white;
+    font-size: 30px;
+}
+.btn{
+    height: 35px;
+    width: 80px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius:10px;
+    font-size: 15px;
+    margin-right: 150px;
+}
+.btn1{
+    background-color:rgb(193,17,25);
+    color: white;
+    border: none;
+    width: 210px;
+    height: 55px;
+    border-radius: 8px;
+}
+
+input{
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 5px 10px;
+    background-color: rgba(10, 10, 10, 0.5);
+    color: white;
+
+}
+.bg{
+    background-image:url("image/img1111.jpg");
+    min-height: 740px;
+    background-repeat:no-repeat;
+    background-size: 100% 100%;
+}
+
+.tv{
+    margin-right: 30px;
+    
+}
+
+
+.parrent2 {
+    display: flex;
+    margin-top: 7px;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+
+
+.parrent3{
+    margin-top: 7px;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    
+
+}
+
+.parrent4 {
+    display: flex;
+    margin-top: 6px;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+
+
+.parrent5 {
+    margin-top: 6px;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+
+
+
+.div6{
+    margin-top: 90px;
+
+}
+
+.div7{
+    margin-left: 110px;
+    margin-top: 5px;
+}
+.div8 {
+    background-color: rgba(32, 32, 32, 0.615);
+}
+
+
+.div8 {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(36, 32, 32);
+    width: 70%;
+    height: 80px;
+    margin-left: 14%;
+    margin-bottom: 1px;
+    margin-top: 9px;
+    
+}
+
+.div8:hover {
+    background-color: rgba(165, 196, 196, 0.28);
+}
+
+
+
+.h3{
+    margin-top: 50px;
+}
+
+
+.laptop{
+    margin-top: 70px;
+
+}
+
+.h11 {
+    margin-top: 3%;
+    margin-left: 30px;
+
+}
+
+.plus {
+    margin-top: 12px;
+    margin-right: 12px;
+}
+
+.input5 {
+    margin-bottom:30px ;
+    padding: 10px;
+    width: 30%;
+    background-color: rgba(36, 32, 32, 0.33);
+    border: 1px solid rgb(97, 94, 94);
+    border-radius: 8px;
+}
+
+.btn4 {
+    height: 65px;
+    width: 15%;
+    background-color: red;
+    border: none;
+    border-radius: 8px;
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    margin-left: 9px;
+}
+
